@@ -1,0 +1,7 @@
+function letterCount(str, search) {
+
+}
+
+
+
+    
