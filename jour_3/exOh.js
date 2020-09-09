@@ -1,16 +1,12 @@
+function WordCount(str) {
 
-var str
-str = xooxxo
-var nb = x
 
-function exOh(str) {
-    if (str x == 0) {
-        return true;
-    } else if(str x) {
-        return false;
-    }
-
-}
-
-console.log(exOh(6))
-
+    var ex = str.split("x").join("");
+  
+    var o = str.split("o").join("");
+  
+    return ex.length === o.length;
+  
+  }
+  
+  console.log(WordCount("xooox"));                                

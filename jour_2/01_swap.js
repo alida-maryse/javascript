@@ -18,13 +18,11 @@ console.log(swap(first, second))
 
 
 
-   
+  
 
-// if (swap) {
-
-     //   return (arr.indexOf(100));
-    // } else if  {
-      //  return(arr.indexOf(5)) ;
+    
+    
+    
 
 
 

@@ -1,6 +1,6 @@
-function letterCount(str, search) {
 
-}
+
+
 
 
 
